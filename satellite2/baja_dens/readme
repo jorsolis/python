@@ -1,0 +1,6 @@
+1 'baja densidad'
+2 'caso 0.25 0.11'
+3 "toro"
+4 'caso Mr=3.8' core-toro core domina
+5 'caso mr=0.29' core-toro toro domina
+6 'caso Mr = 3.37' core-bulge 
